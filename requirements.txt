@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+guidance
+pymongo
+google-generativeai
+google-cloud-aiplatform
